@@ -69,7 +69,7 @@ class dev:
         i4 = Label(f3, image=self.photoimg4)
         i4.place(x=30, y=180, width=60, height=60)
 
-        linkedin=Label(f3,text="www.linkedin.com/in/shaurya--490311291",font=("arial",10,"bold"),bg="white",fg="black")
+        linkedin=Label(f3,text="www.linkedin.com/in/shaurya",font=("arial",10,"bold"),bg="white",fg="black")
         linkedin.place(x=100,y=197)
 
         
@@ -97,7 +97,7 @@ class dev:
         i5= Label(f4, image=self.photoimg6)
         i5.place(x=30, y=200, width=60, height=60)
 
-        mss=Label(f4,text="Completed Senior Seconday from Manav Sthali\nSchool (Batch 2022)",font=("arial",10,"bold"),fg="black",bg="white",justify=LEFT)
+        mss=Label(f4,text="Completed Senior Seconday from APS  (Batch 2023)",font=("arial",10,"bold"),fg="black",bg="white",justify=LEFT)
         mss.place(x=100,y=210,width=320,height=50)
 
         img7 = Image.open(r"C:\Users\shaurya\OneDrive\Desktop\Minor Project\images\mss.jpg")
@@ -107,7 +107,7 @@ class dev:
         i6 = Label(f4, image=self.photoimg7)
         i6.place(x=30, y=340, width=60, height=60)
 
-        mss2=Label(f4,text="Completed Marticulation from Manav Sthali\nSchool (Batch 2020",font=("arial",10,"bold"),fg="black",bg="white",justify=LEFT)
+        mss2=Label(f4,text="Completed Marticulation from APS (Batch 2021",font=("arial",10,"bold"),fg="black",bg="white",justify=LEFT)
         mss2.place(x=80,y=340,width=320,height=50)
 
 
