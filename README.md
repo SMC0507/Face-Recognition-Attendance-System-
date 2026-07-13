@@ -16,10 +16,6 @@ Student Detail's Window
 
 ![image](https://github.com/NUETYBERI/Face-Recognition-Attendance-System-/assets/163902973/40bf751c-20a7-4ca5-bc36-09964d6dbfab)
 
-Face Recognition Window
-
-![image](https://github.com/NUETYBERI/Face-Recognition-Attendance-System-/assets/163902973/d5353c4d-2dbc-4eba-98be-f92f0bf2cf84)
-
 Attendance Window
 
 ![image](https://github.com/NUETYBERI/Face-Recognition-Attendance-System-/assets/163902973/6b9fdd25-7cc0-4f52-85f1-91aceefa125b)
@@ -32,9 +28,6 @@ Train Data Window
 
 ![image](https://github.com/NUETYBERI/Face-Recognition-Attendance-System-/assets/163902973/a1161f6e-87d8-43c5-842c-6329c105b757)
 
-Developer Window
-
-![image](https://github.com/NUETYBERI/Face-Recognition-Attendance-System-/assets/163902973/9b632187-4d8c-4378-8e3d-8cc664301970)
 
 
 
